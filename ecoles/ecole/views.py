@@ -6,5 +6,4 @@ from ecole.models import Etudiants
 def index(request):
     ecoles = Etudiants.objects.all()
     return render(request, 'index.html', {'ecoles': ecoles})  
-    #return HttpResponse(ecoles)
 
