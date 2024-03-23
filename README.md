@@ -12,6 +12,7 @@ Approche "Database First" dans Django :
 ![Screenshot (288)](https://github.com/stherlove03/Devoir-2/assets/89224789/ae08b668-ab59-452b-bceb-e3652619352d)
 
 # Création d'un utilisateur SuperAdmin :
+### Vous pouvez voir les lignes de code des étapes ci-dessous sur la branche superadmin
 1.	J'ai créé une nouvelle branche Git appelée « superadmin ».
 2.	J'ai créé un utilisateur super administrateur dans cette branche.
 3.	J'ai accédé au tableau de bord super administrateur et ajouté cinq nouveaux étudiants dans la base de données (via le tableau de bord administrateur).
